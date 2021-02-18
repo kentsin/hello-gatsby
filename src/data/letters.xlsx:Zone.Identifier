@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://github.com/gatsbyjs/gatsby/blob/master/examples/using-excel/src/data/letters.xlsx
+HostUrl=https://raw.githubusercontent.com/gatsbyjs/gatsby/master/examples/using-excel/src/data/letters.xlsx
